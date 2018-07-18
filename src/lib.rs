@@ -47,12 +47,14 @@ extern crate void;
 
 pub mod afio;
 pub mod bb;
+pub mod can;
 pub mod delay;
 pub mod dma;
 #[cfg(feature = "doc")]
 pub mod examples;
 pub mod flash;
 pub mod gpio;
+pub mod i2c;
 pub mod prelude;
 pub mod pwm;
 pub mod qei;
