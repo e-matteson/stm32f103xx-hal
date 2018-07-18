@@ -21,7 +21,7 @@ panic-itm = "0.2.0"
 default-features = false
 version = "1.0.0"
 
-[dependencies.void]/network
+[dependencies.void]
 default-features = false
 version = "1.0.2"
 
